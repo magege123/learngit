@@ -4,3 +4,4 @@ git is good to learn;
 
 git has a mutable index called stage;
 i have push local repository to origin;
+create a branch which named issue-101 to repair bug;
