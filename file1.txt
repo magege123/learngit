@@ -3,3 +3,4 @@ git is free software disreibuted under GPL;
 git is good to learn;
 
 git has a mutable index called stage;
+i have push local repository to origin;
